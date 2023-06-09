@@ -1,4 +1,4 @@
-# provinces-northeast-thailand
+# Distance of Provinces in Northeast Thailand
 **20 provinces in northeast Thailand**
 
 This repository contains a dataset that represents the distances and durations of routes between the 20 provinces in Northeast Thailand. The data was collected using Google Maps' distance routing feature.
